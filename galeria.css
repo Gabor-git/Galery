@@ -1,0 +1,65 @@
+﻿body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: grey;
+}
+h2 {
+    font-weight: 300;  
+    margin: 5px;
+}
+h1,p{
+    color:darkgreen;    
+    margin:5px;
+    font-size:18px;
+}
+p{font-size:15px;}
+#kep{max-width:750px;
+     max-height: 550px;
+}
+#balnyil, #jobbnyil{max-width:80px;
+                    position:fixed;
+                    top: 200px;
+                    }
+#balnyil{left: 20px;}
+#jobbnyil{right: 50px;}
+.mini{max-height:80px;}
+#m0:hover{max-height:100px; }
+#m1:hover {
+    max-height: 100px;
+}
+#m2:hover {
+    max-height: 100px;
+}
+#m3:hover {
+    max-height: 100px;
+}
+#m4:hover {
+    max-height: 100px;
+}
+#m5:hover {
+    max-height: 100px;
+}
+#m6:hover {
+    max-height: 100px;
+}
+#m7:hover {
+    max-height: 100px;
+}
+#m0:hover {
+    max-height: 100px;
+}
+#m8:hover {
+    max-height: 100px;
+}
+#m9:hover {
+    max-height: 100px;
+}
+#m10:hover {
+    max-height: 100px;
+}
+#m11:hover {
+    max-height: 100px;
+}
+#m12:hover {
+    max-height: 100px;
+}
